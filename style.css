@@ -45,16 +45,13 @@ body{
 	overflow-x: hidden;
 	min-height: 100vh;
 	position: relative;
-	font-family: montserrat;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 1.4em;
 	padding-bottom: 276px;
 }
 body.stop-transitions * {
   transition: none !important;
 }
-/*fonts*/
-font-family: 'Montserrat', sans-serif;
-
 button{
 	background-color: rgba(0,0,0,0);
 	border: none;
